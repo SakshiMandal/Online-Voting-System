@@ -99,7 +99,7 @@ footer{
     color: aqua;
 }
 .bgprimary{
-	background:#009688 !important;
+	background:#00acc1 !important;
 	 
 	
 }
@@ -128,7 +128,7 @@ footer{
 
 .sidebar{
 	width:18%;
-	background: #00E3CD;
+	background:#b2ebf2;
 	height:100%;
 	position:fixed;
 	padding-top:20px;
